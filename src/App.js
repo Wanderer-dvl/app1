@@ -1,12 +1,11 @@
 import React from 'react';
+import RefsFunc from './ref-func';
 
-import { Calculator2 } from './calculator';
-import { EventData2 } from './event-data';
 
 function App() {
   
   
-  return <EventData2/>
+  return <RefsFunc/>
 }
 
 export default App;
