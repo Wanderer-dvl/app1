@@ -1,11 +1,12 @@
 import React from 'react';
 import RefsFunc from './ref-func';
 import RefsArray from './refs-array';
+import MessageBox from './state-class';
 
 function App() {
   
   
-  return <RefsArray/>
+  return <MessageBox/>
 }
 
 export default App;
